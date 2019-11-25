@@ -29,7 +29,7 @@
 },{
     "name": "Tekos Generic Template 2 ",
     "description": "This is the default tekos template.",
-    "flow-file":"flow.json",
+    "flow-file":"flow-2.json",
     "tekos-bot-required": true,
     "keywords": [
         "bot",
